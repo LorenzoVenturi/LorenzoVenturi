@@ -15,6 +15,7 @@ I'm a **Computer Engineer** and **Artificial Intelligence student**, passionate 
 - **SQL**: Essential for database management and enterprise applications.  
 - **HTML, CSS, JavaScript**: For building simple and effective web interfaces.  
 - **.NET**: Developed rich HMI for industrial field
+
 I'm continuously expanding my knowledge, exploring tools like TensorFlow, PyTorch, and cloud platforms.
 
 I’m always excited to collaborate on innovative projects. Thanks for stopping by! 🌟
