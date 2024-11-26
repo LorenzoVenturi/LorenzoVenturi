@@ -1,7 +1,6 @@
 
 # Hi! I'm Lorenzo.
 
-I'm currently studying for a **Master's Degree in Artificial Intelligence** at the **University of Bologna**.
+I'm currently pursuing a **Master's Degree in Artificial Intelligence** at the **University of Bologna**.
 
-I worked for **2 years** as a software engineer during and after my **Bachelor's Degree in Computer Engineering**. Now, I am focusing on **AI**.
-
+I have **2 years of experience** as a software engineer, gained during and after my **Bachelor's Degree in Computer Engineering**. Now, my focus is on advancing in the field of **AI**.
