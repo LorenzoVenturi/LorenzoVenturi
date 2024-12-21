@@ -10,11 +10,13 @@ I'm a **Computer Engineer** and **Artificial Intelligence student**, passionate 
 - 🏃 **Hobbies**: Athletics enthusiast and photographer  
 
 ## 🛠️ Skills and Technologies
-- **Java**: My first programming language, with solid experience using OpenJDK.  
+- **C**: My first programming language.
+- **Java**: Experience with building web api and web backend application.  
 - **Python**: My go-to for machine learning, data science, and automation projects.  
 - **SQL**: Essential for database management and enterprise applications.  
-- **HTML, CSS, JavaScript**: For building simple and effective web interfaces.  
+- **HTML, CSS, JavaScript, Angular**: For building simple and effective web interfaces.  
 - **.NET**: Developed rich HMI for industrial field
+  
 
 
 I’m always excited to collaborate on innovative projects. Thanks for stopping by! 🌟
