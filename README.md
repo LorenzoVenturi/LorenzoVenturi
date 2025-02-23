@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Lorenzo!
 
-I'm a **Computer Engineer** and **Artificial Intelligence student**, passionate about technology, learning, and exploring new opportunities. Currently, I’m pursuing a **Master’s degree in AI in Bologna**, focusing on machine learning and advanced AI systems.
+I'm an **Artificial Intelligence student**, passionate about technology, learning, and exploring new opportunities. Currently, I’m pursuing a **Master’s degree in AI in Bologna**, focusing on machine learning and advanced AI systems.
 
 ## 🚀 About Me
 - 💻 **Work**: 2 years experience as Software Developer in Industrial and Banking field, mainly in .NET and Java  
