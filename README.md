@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Lorenzo!
 
-I'm an **Artificial Intelligence student**, passionate about technology, learning, and exploring new opportunities. Currently, I’m pursuing a **Master’s degree in AI in Bologna**, focusing on machine learning, agent systems and computer vision.
+I'm an **Artificial Intelligence student**, passionate about technology, learning, and exploring new opportunities. Currently, I’m pursuing a **Master’s degree in AI in Bologna**, focusing on machine learning, agent systems, computer vision and NLP.
 
 ## 🚀 About Me
 - 💻 **Work**: 2 years experience as Software Developer in Industrial and Banking field, mainly in .NET and Java  
@@ -10,7 +10,7 @@ I'm an **Artificial Intelligence student**, passionate about technology, learnin
 - 🏃 **Hobbies**: Athletics enthusiast and photographer  
 
 ## 🛠️ Skills and Technologies
-- **Python**: main language for my ai projects, including larger ai library tools like: **Pytorch,SKlearn,Keras**
+- **Python**: main language for my ai projects, including larger ai library tools like: **Pytorch,TensorFlow,Keras**
 - **C**: My first programming language.
 - **Java**: Experience with building web api and web backend application.  
 - **SQL**: Essential for database management and enterprise applications.  
