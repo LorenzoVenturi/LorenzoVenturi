@@ -15,6 +15,7 @@ Here i past some of my most interesting projects relating mainly to the AI field
    <img src="https://skillicons.dev/icons?i=dotnet" /> 
    <img src="https://skillicons.dev/icons?i=git" /> 
    <img src="https://skillicons.dev/icons?i=cs" /> 
+    <img src="https://skillicons.dev/icons?i=java" /> 
    
 </p> 
   
