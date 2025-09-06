@@ -13,7 +13,7 @@ I'm an **Artificial Intelligence student**, passionate about technology, learnin
    <img src="https://skillicons.dev/icons?i=docker" /> 
    <img src="https://skillicons.dev/icons?i=dotnet" /> 
    <img src="https://skillicons.dev/icons?i=git" /> 
-   <img src="https://skillicons.dev/icons?i=c" /> 
+   <img src="https://skillicons.dev/icons?i=cs" /> 
    
 </p> 
   
