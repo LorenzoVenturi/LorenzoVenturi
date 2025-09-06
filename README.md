@@ -7,7 +7,8 @@ I'm an **Artificial Intelligence student**, passionate about technology, learnin
 <p align="left">
    <img src="https://skillicons.dev/icons?i=python" />
    <img src="https://skillicons.dev/icons?i=pytorch" />
-   <img src="https://skillicons.dev/icons?i=tensorflow" /> </br>
+   <img src="https://skillicons.dev/icons?i=tensorflow" /> 
+    <img src="https://skillicons.dev/icons?i=opencv" />  </br>
    <img src="https://skillicons.dev/icons?i=c" /> 
    <img src="https://skillicons.dev/icons?i=docker" /> 
    <img src="https://skillicons.dev/icons?i=dotnet" /> 
