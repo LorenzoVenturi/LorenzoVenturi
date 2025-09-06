@@ -17,6 +17,18 @@ I'm an **Artificial Intelligence student**, passionate about technology, learnin
 - **HTML, CSS, JavaScript, Angular**: For building simple and effective web interfaces.  
 - **.NET**: Developed rich HMI for industrial field
   
+<center>
+   <table >
+       <tr>
+           <td>
+               <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoVenturi&theme=dracula" /><br />
+           </td>
+           <td>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoVenturi&layout=compact&hide_border=true&theme=dracula&langs_count=6"/>
+           </td>
+       </tr>
+   </table>
+</center>
 
 
 I’m always excited to collaborate on innovative projects. Thanks for stopping by! 🌟
