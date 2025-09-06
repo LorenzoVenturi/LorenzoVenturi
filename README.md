@@ -1,7 +1,8 @@
 
 # 👋 Hi, I'm Lorenzo!
 
-I'm an **Artificial Intelligence student**, passionate about technology, learning, and exploring new opportunities. Currently, I’m pursuing a **Master’s degree in AI in Bologna**, focusing on agent systems, computer vision and NLP.
+I'm an **Artificial Intelligence student**, passionate about technology, learning, and exploring new opportunities. Currently, I’m pursuing a **Master’s degree in AI in Bologna**, focusing on agent systems, computer vision and soon NLP.
+Here i past some of my most interesting projects relating mainly to the AI field.
 ## Languages and Tools : 
 
 <p align="left">
