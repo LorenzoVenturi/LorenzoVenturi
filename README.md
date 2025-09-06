@@ -8,6 +8,12 @@ I'm an **Artificial Intelligence student**, passionate about technology, learnin
    <img src="https://skillicons.dev/icons?i=python" />
    <img src="https://skillicons.dev/icons?i=pytorch" />
    <img src="https://skillicons.dev/icons?i=tensorflow" /> </br>
+   <img src="https://skillicons.dev/icons?i=c" /> 
+   <img src="https://skillicons.dev/icons?i=docker" /> 
+   <img src="https://skillicons.dev/icons?i=dotnet" /> 
+   <img src="https://skillicons.dev/icons?i=git" /> 
+   <img src="https://skillicons.dev/icons?i=c" /> 
+   
 </p> 
   
 <center>
