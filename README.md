@@ -8,13 +8,6 @@ I'm an **Artificial Intelligence student**, passionate about technology, learnin
    <img src="https://skillicons.dev/icons?i=python" />
    <img src="https://skillicons.dev/icons?i=pytorch" />
    <img src="https://skillicons.dev/icons?i=tensorflow" /> </br>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="47" height="47"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="47" height="47"/>      
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="47" height="47"/><br><br>
-   <img src="https://skillicons.dev/icons?i=mysql,linux,git" /><br>
-   <img src="https://skillicons.dev/icons?i=pytorch" /><br>
-   
-  
 </p> 
   
 <center>
