@@ -8,6 +8,7 @@ My favourites subjects relies in:
 - natural language processing
 - deep learning
 - high performance computing.
+  
 Here i past some of my most interesting projects related mainly to the AI field.
 ## Languages and Tools : 
 
