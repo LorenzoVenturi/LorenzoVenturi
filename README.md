@@ -4,7 +4,7 @@
 I'm an **Artificial Intelligence student**, passionate about technology, learning, and statistics. Currently, I’m pursuing a **Master’s degree in AI in Bologna**, focusing on broad aspects of AI, from logic to the latest Deep Neural architectures.
 My favourites subjects relies in:
 - computer vision
-- agent systems and deep reinfrcement learning
+- agent systems and deep reinforcement learning
 - natural language processing
 - deep learning
 - high performance computing.
