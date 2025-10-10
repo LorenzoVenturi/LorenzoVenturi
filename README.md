@@ -26,7 +26,3 @@ Here i past some of my most interesting projects related mainly to the AI field.
    
 </p> 
 I’m always excited to collaborate on innovative projects. Thanks for stopping by! 🌟
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JP&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-</div>
