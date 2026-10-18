@@ -2,6 +2,8 @@
 
 I'm an Artificial Intelligence graduate with interests in natural language processing, computer vision, and AI agents.
 
+My very much vibecoded website: [https://lorenzoventuri.github.io/]
+
 I completed a research internship at the **National Institute of Informatics (NII) in Tokyo**, where I worked on **visual misinformation on social media and Community Notes**.
 
 I'm currently deepening my understanding of **AI agents and agentic workflows** through hands-on projects. Here I share work from my studies, research, and ongoing experiments.
